@@ -1,0 +1,6 @@
+Post::create([
+    'title'=>'Post Keempat',
+    'category_id' => 1,
+    'excerpt' => 'Sed sit amet consequat nibh. Fusce interdum est vel urna luctus congue. Nulla bibendum sapien a viverra cursus. Curabitur ornare ex lacus.',
+    'body' => 'Sed sit amet consequat nibh. Fusce interdum est vel urna luctus congue. Nulla bibendum sapien a viverra cursus. Curabitur ornare ex lacus. Proin neque mi, ultricies non nunc sed, pretium feugiat ex. Aenean rutrum pharetra ligula, vel pretium massa placerat ut. Duis fringilla mi a libero blandit laoreet. Aliquam erat volutpat. Ut vitae ornare ex, ac dignissim urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum non malesuada risus. Nulla facilisi. Nunc maximus turpis elit, id bibendum metus condimentum a. Morbi viverra at arcu ac lacinia. Nulla eleifend nunc dui, nec tempus mi mattis in. Mauris eu commodo nunc.'
+])
